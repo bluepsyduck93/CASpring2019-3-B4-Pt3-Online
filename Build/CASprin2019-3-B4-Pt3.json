@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CA-Spring2019-B3-2019",
+"productVersion": "0.1",
+"dataUrl": "CASprin2019-3-B4-Pt3.data.unityweb",
+"wasmCodeUrl": "CASprin2019-3-B4-Pt3.wasm.code.unityweb",
+"wasmFrameworkUrl": "CASprin2019-3-B4-Pt3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0b1"
+}
